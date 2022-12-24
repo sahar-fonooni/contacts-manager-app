@@ -1,0 +1,30 @@
+img{
+    width: 190px !important ;
+    height: 172px !important ;
+}
+ul{
+    padding-right: 10px !important;
+}
+@media (max-width:575px) {
+    .textBox{
+        margin-top: 10px !important;
+    }
+    .new{
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        margin-right: 20px;
+    }
+    .buttons{
+        margin-left:10px;
+    }
+}
+
+@media (max-width:1200px){
+    .buttons{
+        padding: 5px;
+    }
+    .textSize{
+        font-size: 14px;
+    }
+}

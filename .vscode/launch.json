@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://localhost:9000/contacts/add",
+            "request": "launch",
+            "url": "http://localhost:9000/contacts/add"
+        }
+    ]
+}
